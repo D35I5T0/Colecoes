@@ -1,6 +1,5 @@
 package colecoes;
 import java.util.ArrayList;
-import java.util.HashSet;
 public class AplicacaoCirculo {
     public static void main(String[] args) throws Exception {
         double area;
